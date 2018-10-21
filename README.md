@@ -1,0 +1,2 @@
+# scicomp
+Scientific Computing Workshop
